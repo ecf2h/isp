@@ -114,22 +114,22 @@ const consentText = {
         "buttonLabel": "Merci d'accepter les conditions avant de continuer",
         "consentLabel": "J'ai lu et compris l'ensemble du texte ci-dessus et j'accepte de participer.",
         "paragraphs": [
-            "Bienvenue dans notre étude. Votre participation se fera en une seule session et prendra moins d'une heure. Il vous sera demandé de décrire une situation vécue récemment en précisant comment vous vous êtes comporté.e dans cette situation. Il vous sera également demandé de répondre à des questions sur vos valeurs et vos opinions. À la fin de l'étude, si vous le souhaitez, vous recevrez des informations personnalisées au sujet de votre personnalité.",
+            "Bienvenue dans notre étude. Votre participation se fera en une seule session et prendra moins d'une heure. Il vous sera demandé de décrire une situation vécue récemment en précisant comment vous vous êtes comporté dans cette situation. Il vous sera également demandé de répondre à des questions sur vos valeurs et vos opinions. À la fin de l'étude, si vous le souhaitez, vous recevrez des informations personnalisées au sujet de votre personnalité.",
             "Toutes vos réponses seront confidentielles et identifiées uniquement par un nombre (et non par votre nom). Pour les besoins de la recherche, ces données anonymes seront archivées dans une base de données au sein du \"Center of Open Science\" (www.cos.io). Vous devez répondre à chaque question afin que le questionnaire soit adéquatement completé, mais sachez que vous pouvez arrêter à tout moment sans conséquence. Votre participation à cette étude permettra de mieux comprendre comment vivent des personnes selon leurs contextes culturels. Il n'existe aucun risque connu lié à la participation à cette recherche.",
-            "Si vous avez des questions au sujet de l'étude ou de vos droits en tant que participant, vous pouvez contacter, Maja Becker (becker.maja@gmail.com), Université Toulouse Jean Jaurès, qui sont responsables de la collecte des données dans votre pays, ou l'Université de Californie: University of California, Riverside, Office of Research Integrity by email at IRB@ucr.edu. Nous vous remercions sincèrement pour votre participation."
+            "Si vous avez des questions au sujet de l'étude ou de vos droits en tant que participant, vous pouvez contacter, Maja Becker (mbecker@univ-tlse2.fr), Université Toulouse Jean Jaurès, qui est responsable de la collecte des données dans votre pays, ou l'Université de Californie: University of California, Riverside, Office of Research Integrity par email à IRB@ucr.edu. Nous vous remercions sincèrement pour votre participation."
         ],
         "title": "Je consens à participer à cette recherche",
         "versionHistory": "(Formulaire de consentement version du 14 octobre 2016)"
     },
     "FRANCE2.FR": {
+        "": "Je consens à participer à cette recherche",
         "buttonLabel": "Merci d'accepter les conditions avant de continuer",
         "consentLabel": "J'ai lu et compris l'ensemble du texte ci-dessus et j'accepte de participer.",
         "paragraphs": [
-            "Bienvenue dans notre étude. Votre participation se fera en une seule session et prendra moins d'une heure. Il vous sera demandé de décrire une situation vécue récemment en précisant comment vous vous êtes comporté.e dans cette situation. Il vous sera également demandé de répondre à des questions sur vos valeurs et vos opinions. À la fin de l'étude, si vous le souhaitez, vous recevrez des informations personnalisées au sujet de votre personnalité.",
+            "Bienvenue dans notre étude. Votre participation se fera en une seule session et prendra moins d'une heure. Il vous sera demandé de décrire une situation vécue récemment en précisant comment vous vous êtes comporté dans cette situation. Il vous sera également demandé de répondre à des questions sur vos valeurs et vos opinions. À la fin de l'étude, si vous le souhaitez, vous recevrez des informations personnalisées au sujet de votre personnalité.",
             "Toutes vos réponses seront confidentielles et identifiées uniquement par un nombre (et non par votre nom). Pour les besoins de la recherche, ces données anonymes seront archivées dans une base de données au sein du \"Center of Open Science\" (www.cos.io). Vous devez répondre à chaque question afin que le questionnaire soit adéquatement completé, mais sachez que vous pouvez arrêter à tout moment sans conséquence. Votre participation à cette étude permettra de mieux comprendre comment vivent des personnes selon leurs contextes culturels. Il n'existe aucun risque connu lié à la participation à cette recherche.",
-            "Si vous avez des questions au sujet de l'étude ou de vos droits en tant que participant, vous pouvez contacter, Christelle Maisonneuve (christelle.maisonneuve@univ-rennes1.fr), Université de Rennes, qui sont responsables de la collecte des données dans votre pays, ou l'Université de Californie: University of California, Riverside, Office of Research Integrity by email at IRB@ucr.edu. Nous vous remercions sincèrement pour votre participation."
+            "Si vous avez des questions au sujet de l'étude ou de vos droits en tant que participant, vous pouvez contacter, Christelle Maisonneuve (christelle.maisonneuve@univ-rennes1.fr), Université de Rennes, qui est responsable de la collecte des données dans votre pays, ou l'Université de Californie: University of California, Riverside, Office of Research Integrity par email à IRB@ucr.edu. Nous vous remercions sincèrement pour votre participation."
         ],
-        "title": "Je consens à participer à cette recherche",
         "versionHistory": "(Formulaire de consentement version du 14 octobre 2016)"
     },
     "GENEVA1.FR": {
@@ -138,18 +138,7 @@ const consentText = {
         "paragraphs": [
             "Bienvenue dans notre étude. Votre participation se fera en une seule session et prendra moins d'une heure. Il vous sera demandé de décrire une situation vécue récemment en précisant comment vous vous êtes comporté.e dans cette situation. Il vous sera également demandé de répondre à des questions sur vos valeurs et vos opinions. À la fin de l'étude, si vous le souhaitez, vous recevrez des informations personnalisées au sujet de votre personnalité.",
             "Toutes vos réponses seront confidentielles et identifiées uniquement par un nombre (et non par votre nom). Pour les besoins de la recherche, ces données anonymes seront archivées dans une base de données au sein du \"Center of Open Science\" (www.cos.io). Vous devez répondre à chaque question afin que le questionnaire soit adéquatement completé, mais sachez que vous pouvez arrêter à tout moment sans conséquence. Votre participation à cette étude permettra de mieux comprendre comment vivent des personnes selon leurs contextes culturels. Il n'existe aucun risque connu lié à la participation à cette recherche.",
-            "Si vous avez des questions au sujet de l'étude ou de vos droits en tant que participant, vous pouvez contacter, Clara Kulich  (clara.kulich@unige.ch), Université de Genève, qui sont responsables de la collecte des données dans votre pays, ou l'Université de Californie: University of California, Riverside, Office of Research Integrity by email at IRB@ucr.edu. Nous vous remercions sincèrement pour votre participation."
-        ],
-        "title": "Je consens à participer à cette recherche",
-        "versionHistory": "(Formulaire de consentement version du 14 octobre 2016)"
-    },
-    "SENEG1.FR": {
-        "buttonLabel": "Merci d'accepter les conditions avant de continuer",
-        "consentLabel": "J'ai lu et compris l'ensemble du texte ci-dessus et j'accepte de participer.",
-        "paragraphs": [
-            "Bienvenue dans notre étude. Votre participation se fera en une seule session et prendra moins d'une heure. Il vous sera demandé de décrire une situation vécue récemment en précisant comment vous vous êtes comporté.e dans cette situation. Il vous sera également demandé de répondre à des questions sur vos valeurs et vos opinions. À la fin de l'étude, si vous le souhaitez, vous recevrez des informations personnalisées au sujet de votre personnalité.",
-            "Toutes vos réponses seront confidentielles et identifiées uniquement par un nombre (et non par votre nom). Pour les besoins de la recherche, ces données anonymes seront archivées dans une base de données au sein du \"Center of Open Science\" (www.cos.io). Vous devez répondre à chaque question afin que le questionnaire soit adéquatement completé, mais sachez que vous pouvez arrêter à tout moment sans conséquence. Votre participation à cette étude permettra de mieux comprendre comment vivent des personnes selon leurs contextes culturels. Il n'existe aucun risque connu lié à la participation à cette recherche.",
-            "Si vous avez des questions au sujet de l'étude ou de vos droits en tant que participant, vous pouvez contacter, Oumar Barry (barry_oumar@hotmail.com), Université Cheikh Anta Diop de Dakar-Sénégal, qui sont responsables de la collecte des données dans votre pays, ou l'Université de Californie: University of California, Riverside, Office of Research Integrity by email at IRB@ucr.edu. Nous vous remercions sincèrement pour votre participation."
+            "Si vous avez des questions au sujet de l'étude ou de vos droits en tant que participant, vous pouvez contacter, Clara Kulich  (clara.kulich@unige.ch), Université de Genève, qui est responsable de la collecte des données dans votre pays, ou l'Université de Californie: University of California, Riverside, Office of Research Integrity par email à IRB@ucr.edu. Nous vous remercions sincèrement pour votre participation."
         ],
         "title": "Je consens à participer à cette recherche",
         "versionHistory": "(Formulaire de consentement version du 14 octobre 2016)"
@@ -158,13 +147,24 @@ const consentText = {
         "buttonLabel": "Merci d'accepter les conditions avant de continuer",
         "consentLabel": "J'ai lu et compris l'ensemble du texte ci-dessus et j'accepte de participer.",
         "paragraphs": [
-            "Bienvenue dans notre étude. Votre participation se fera en une seule session et prendra moins d'une heure. Il vous sera demandé de décrire une situation vécue récemment en précisant comment vous vous êtes comporté.e dans cette situation. Il vous sera également demandé de répondre à des questions sur vos valeurs et vos opinions. À la fin de l'étude, si vous le souhaitez, vous recevrez des informations personnalisées au sujet de votre personnalité.",
+            "Bienvenue dans notre étude. Votre participation se fera en une seule session et prendra moins d'une heure. Il vous sera demandé de décrire une situation vécue récemment en précisant comment vous vous êtes comporté dans cette situation. Il vous sera également demandé de répondre à des questions sur vos valeurs et vos opinions. À la fin de l'étude, si vous le souhaitez, vous recevrez des informations personnalisées au sujet de votre personnalité.",
             "Toutes vos réponses seront confidentielles et identifiées uniquement par un nombre (et non par votre nom). Pour les besoins de la recherche, ces données anonymes seront archivées dans une base de données au sein du \"Center of Open Science\" (www.cos.io). Vous devez répondre à chaque question afin que le questionnaire soit adéquatement completé, mais sachez que vous pouvez arrêter à tout moment sans conséquence. Votre participation à cette étude permettra de mieux comprendre comment vivent des personnes selon leurs contextes culturels. Il n'existe aucun risque connu lié à la participation à cette recherche.",
-            "Si vous avez des questions au sujet de l'étude ou de vos droits en tant que participant, vous pouvez contacter, Catherine Amiot (amiot.catherine@uqam.ca), Université du Québec à Montréal, qui sont responsables de la collecte des données dans votre pays, ou l'Université de Californie: University of California, Riverside, Office of Research Integrity by email at IRB@ucr.edu. Nous vous remercions sincèrement pour votre participation."
+            "Si vous avez des questions au sujet de l'étude ou de vos droits en tant que participant, vous pouvez contacter, Catherine Amiot (amiot.catherine@uqam.ca), Université du Québec à Montréal, qui est responsable de la collecte des données dans votre pays, ou l'Université de Californie: University of California, Riverside, Office of Research Integrity par email à IRB@ucr.edu. Nous vous remercions sincèrement pour votre participation."
         ],
         "title": "Je consens à participer à cette recherche",
         "versionHistory": "(Formulaire de consentement version du 14 octobre 2016)"
     },
+    "SENEG1.FR": {
+        "buttonLabel": "Merci d'accepter les conditions avant de continuer",
+        "consentLabel": "J'ai lu et compris l'ensemble du texte ci-dessus et j'accepte de participer.",
+        "paragraphs": [
+            "Bienvenue dans notre étude. Votre participation se fera en une seule session et prendra moins d'une heure. Il vous sera demandé de décrire une situation vécue récemment en précisant comment vous vous êtes comporté dans cette situation. Il vous sera également demandé de répondre à des questions sur vos valeurs et vos opinions. À la fin de l'étude, si vous le souhaitez, vous recevrez des informations personnalisées au sujet de votre personnalité.",
+            "Toutes vos réponses seront confidentielles et identifiées uniquement par un nombre (et non par votre nom). Pour les besoins de la recherche, ces données anonymes seront archivées dans une base de données au sein du \"Center of Open Science\" (www.cos.io). Vous devez répondre à chaque question afin que le questionnaire soit adéquatement completé, mais sachez que vous pouvez arrêter à tout moment sans conséquence. Votre participation à cette étude permettra de mieux comprendre comment vivent des personnes selon leurs contextes culturels. Il n'existe aucun risque connu lié à la participation à cette recherche.",
+            "Si vous avez des questions au sujet de l'étude ou de vos droits en tant que participant, vous pouvez contacter, Oumar Barry (barry_oumar@hotmail.com), Université Cheikh Anta Diop de Dakar-Sénégal, qui est responsable de la collecte des données dans votre pays, ou l'Université de Californie: University of California, Riverside, Office of Research Integrity par email à IRB@ucr.edu. Nous vous remercions sincèrement pour votre participation."
+        ],
+        "title": "Je consens à participer à cette recherche",
+        "versionHistory": "(Formulaire de consentement version du 14 octobre 2016)"
+    }, 
     // German
     "GERM1.AU": {
         "buttonLabel": "Bitte akzeptieren Sie die Teilnahmebedingungen, um fortzufahren.",
